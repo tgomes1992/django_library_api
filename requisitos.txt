@@ -1,0 +1,12 @@
+API de uma Livraria 
+
+
+Funcionalidade de Cadastro de Livros
+Estoque de Livros 
+Venda de Livros
+Aluguel de Livros
+
+
+Tecnologias
+
+Django  + Postgresql + Django REST Framework
